@@ -1,0 +1,13 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\dipopersonal\\documents\\uni\\agd\\bootcamprunner\\unrealproject\\intermediate\\build\\win64\\unrealeditor\\inc\\unrealproject\\uht\\unrealproject.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\dipopersonal\\documents\\uni\\agd\\bootcamprunner\\unrealproject\\intermediate\\build\\win64\\x64\\unrealprojecteditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_1.h.pch",
+        "Includes": [
+            "c:\\users\\dipopersonal\\documents\\uni\\agd\\bootcamprunner\\unrealproject\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\unrealproject\\definitions.unrealproject.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
